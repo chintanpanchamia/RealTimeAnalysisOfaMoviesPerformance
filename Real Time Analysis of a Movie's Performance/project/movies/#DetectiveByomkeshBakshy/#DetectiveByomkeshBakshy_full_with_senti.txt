@@ -1,0 +1,100 @@
+Text:The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/GZeFyMPa22	location:New Delhi	datetime:Fri Mar 20 07:39:13 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Mumbai	datetime:Fri Mar 20 07:46:44 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Chennai	datetime:Fri Mar 20 07:46:47 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Chennai	datetime:Fri Mar 20 07:47:15 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Islamabad	datetime:Fri Mar 20 07:49:02 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:New Delhi	datetime:Fri Mar 20 07:49:12 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Null	datetime:Fri Mar 20 07:49:40 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Tijuana	datetime:Fri Mar 20 07:50:06 +0000 2015
+Sentiment:negative
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:Eastern Time (US & Canada)	datetime:Fri Mar 20 07:53:59 +0000 2015
+Sentiment:negative
+Text:RT @MeiyangChang: #ChaiPeCharcha with #DetectiveByomkeshBakshy  Only,not the kind of  you'd expect with an opium dealer  03/04/15 htt	location:Null	datetime:Fri Mar 20 07:58:49 +0000 2015
+Sentiment:positive
+Text:RT @MeiyangChang: #ChaiPeCharcha with #DetectiveByomkeshBakshy  Only,not the kind of  you'd expect with an opium dealer  03/04/15 htt	location:New Delhi	datetime:Fri Mar 20 07:59:03 +0000 2015
+Sentiment:positive
+Text:http://t.co/c1JAR9wVrR - With focus on character, Sushant puts looks on backburner #SushantSinghRajput #DetectiveByomkeshBakshy	location:Pacific Time (US & Canada)	datetime:Fri Mar 20 08:01:49 +0000 2015
+Sentiment:positive
+Text:RT @RedFMIndia: The countdown has begun for @PikuTheFilm's trailer launch, #DetectiveByomkeshBakshy's thunder might be stolen. http://t.co/	location:New Delhi	datetime:Fri Mar 20 08:02:01 +0000 2015
+Sentiment:negative
+Text:RT @MeiyangChang: #ChaiPeCharcha with #DetectiveByomkeshBakshy  Only,not the kind of  you'd expect with an opium dealer  03/04/15 htt	location:New Delhi	datetime:Fri Mar 20 08:03:18 +0000 2015
+Sentiment:positive
+Text:RT @MeiyangChang: #ChaiPeCharcha with #DetectiveByomkeshBakshy  Only,not the kind of  you'd expect with an opium dealer  03/04/15 htt	location:Null	datetime:Fri Mar 20 08:18:48 +0000 2015
+Sentiment:positive
+Text:RT @MeiyangChang: #ChaiPeCharcha with #DetectiveByomkeshBakshy  Only,not the kind of  you'd expect with an opium dealer  03/04/15 htt	location:Null	datetime:Fri Mar 20 10:03:13 +0000 2015
+Sentiment:positive
+Text:" http://t.co/67HnqCLuH6 - With focus on character, Sushant puts looks on backburner #SushantSinghRajput #DetectiveByomkeshBakshy"	location:Null	datetime:Fri Mar 20 10:06:53 +0000 2015
+Sentiment:positive
+Text:..  !  Read more at: http://t.co/39UEmwYehj @itsSSR #DetectiveByomkeshBakshy	location:Null	datetime:Fri Mar 20 10:21:19 +0000 2015
+Sentiment:negative
+Text:RT @SushantRFC: [PICS Set8] @itsSSR in #DetectiveByomkeshBakshy http://t.co/eRQV3dga4F	location:Null	datetime:Fri Mar 20 10:29:27 +0000 2015
+Sentiment:negative
+Text:RT @SushantRFC: [PICS Set7] @itsSSR in #DetectiveByomkeshBakshy http://t.co/nBhX21O9dN	location:Null	datetime:Fri Mar 20 10:29:37 +0000 2015
+Sentiment:negative
+Text:RT @SushantRFC: [PICS Set5]@itsSSR  and @MeiyangChang in #DetectiveByomkeshBakshy http://t.co/qpMZbXSAGa	location:Null	datetime:Fri Mar 20 10:29:50 +0000 2015
+Sentiment:negative
+Text:Adiripoindi!!!! Rajput \m/ #DetectiveByomkeshBakshy http://t.co/ejwKasnnIU	location:Chennai	datetime:Sun Mar 22 05:30:21 +0000 2015
+Sentiment:positive
+Text:RT @kamaalrkhan: If you want to see unlimited Chutiyapa then watch promos, trailer n songs of #DetectiveByomkeshBakshy N you will say What	location:New Delhi	datetime:Sun Mar 22 05:31:41 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: Wow! Loved this song from #DetectiveByomkeshBakshy http://t.co/vtuPkUB8Z3	location:Null	datetime:Sun Mar 22 05:51:50 +0000 2015
+Sentiment:positive
+Text:Beautiful cinematography by Nikos Andritsakis for #DetectiveByomkeshBakshy	location:Wellington	datetime:Sun Mar 22 06:03:16 +0000 2015
+Sentiment:positive
+Text:Less than 2 weeks to #DetectiveByomkeshBakshy release! @itsSSR @byomkeshbakshy #SushantSinghRajput #BachKeBakshy http://t.co/ThXCgCujwK	location:Eastern Time (US & Canada)	datetime:Sun Mar 22 06:08:03 +0000 2015
+Sentiment:negative
+Text:RT @kamaalrkhan: If you want to see unlimited Chutiyapa then watch promos, trailer n songs of #DetectiveByomkeshBakshy N you will say What	location:New Delhi	datetime:Sun Mar 22 06:17:36 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: Wow! Loved this song from #DetectiveByomkeshBakshy http://t.co/vtuPkUB8Z3	location:Null	datetime:Sun Mar 22 06:17:52 +0000 2015
+Sentiment:positive
+Text:RT @kamaalrkhan: If you want to see unlimited Chutiyapa then watch promos, trailer n songs of #DetectiveByomkeshBakshy N you will say What	location:Kolkata	datetime:Sun Mar 22 06:18:14 +0000 2015
+Sentiment:positive
+Text:RT @kamaalrkhan: If you want to see unlimited Chutiyapa then watch promos, trailer n songs of #DetectiveByomkeshBakshy N you will say What	location:Null	datetime:Sun Mar 22 06:18:32 +0000 2015
+Sentiment:positive
+Text:RT @kamaalrkhan: If you want to see unlimited Chutiyapa then watch promos, trailer n songs of #DetectiveByomkeshBakshy N you will say What	location:Null	datetime:Sun Mar 22 06:18:41 +0000 2015
+Sentiment:positive
+Text:RT @FilmKiJuice: Beautiful cinematography by Nikos Andritsakis for #DetectiveByomkeshBakshy	location:New Delhi	datetime:Sun Mar 22 06:25:20 +0000 2015
+Sentiment:positive
+Text:RT @kamaalrkhan: If you want to see unlimited Chutiyapa then watch promos, trailer n songs of #DetectiveByomkeshBakshy N you will say What	location:Null	datetime:Sun Mar 22 06:29:20 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: Wow! Loved this song from #DetectiveByomkeshBakshy http://t.co/vtuPkUB8Z3	location:Null	datetime:Sun Mar 22 06:34:33 +0000 2015
+Sentiment:positive
+Text:Detective Byomkesh Bakshi,Bollywood enters the globe! #Calcutta #DetectiveByomkeshBakshy	location:Null	datetime:Sun Mar 22 06:35:33 +0000 2015
+Sentiment:positive
+Text:Wow! Loved this song from #DetectiveByomkeshBakshy. Here's the link to the song: http://t.co/vtuPkB8Z3	location:Null	datetime:Sun Mar 22 06:55:40 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: Wow! Loved this song from #DetectiveByomkeshBakshy http://t.co/vtuPkUB8Z3	location:Null	datetime:Sun Mar 22 07:17:51 +0000 2015
+Sentiment:positive
+Text:Bakshy Babu is coming .... Excited For #DetectiveByomkeshBakshy !!	location:Null	datetime:Sat Mar 28 13:17:22 +0000 2015
+Sentiment:negative
+Text:#DetectiveByomkeshBakshy #SushantSingh #Bollywood #Bharat #India #Gujarat #Vadodara #HirenParekh http://t.co/o1M2Tzn7sv	location:Mumbai	datetime:Sat Mar 28 13:21:46 +0000 2015
+Sentiment:negative
+Text:#DetectiveByomkeshBakshy has passed the censor with U/A carificate and film run time of 150.54 min	location:Arizona	datetime:Sat Mar 28 13:27:44 +0000 2015
+Sentiment:negative
+Text:RT @bollywoodajjtak: #DetectiveByomkeshBakshy has passed the censor with U/A carificate and film run time of 150.54 min	location:Null	datetime:Sat Mar 28 13:32:08 +0000 2015
+Sentiment:negative
+Text:RT @taran_adarsh: All eyes on Summer releases. Flow of keenly-awaited movies commences next week. Starting with #DetectiveByomkeshBakshy. E	location:New Delhi	datetime:Sat Mar 28 13:35:33 +0000 2015
+Sentiment:negative
+Text:Hit Retweet If You Think #DetectiveByomkeshBakshy will also emerge profitable venture after #Badlapur #DumLagaKeHaisha and #NH10..	location:Islamabad	datetime:Sat Mar 28 13:35:40 +0000 2015
+Sentiment:positive
+Text:RT @boxofficedetail: Hit Retweet If You Think #DetectiveByomkeshBakshy will also emerge profitable venture after #Badlapur #DumLagaKeHaisha	location:Atlantic Time (Canada)	datetime:Sat Mar 28 13:35:54 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: All eyes on Summer releases. Flow of keenly-awaited movies commences next week. Starting with #DetectiveByomkeshBakshy. E	location:Pacific Time (US & Canada)	datetime:Sat Mar 28 13:37:46 +0000 2015
+Sentiment:negative
+Text:RT @taran_adarsh: All eyes on Summer releases. Flow of keenly-awaited movies commences next week. Starting with #DetectiveByomkeshBakshy. E	location:Null	datetime:Sat Mar 28 13:39:21 +0000 2015
+Sentiment:negative
+Text:RT @taran_adarsh: All eyes on Summer releases. Flow of keenly-awaited movies commences next week. Starting with #DetectiveByomkeshBakshy. E	location:Null	datetime:Sat Mar 28 13:40:17 +0000 2015
+Sentiment:negative
+Text:RT @boxofficedetail: Hit Retweet If You Think #DetectiveByomkeshBakshy will also emerge profitable venture after #Badlapur #DumLagaKeHaisha	location:Null	datetime:Sat Mar 28 13:44:34 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: Fasten your seat belts... #DetectiveByomkeshBakshy and #FastAndFurious7 next week... Exciting phase indeed! http://t.co/Z	location:New Delhi	datetime:Sat Mar 28 13:44:58 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: All eyes on Summer releases. Flow of keenly-awaited movies commences next week. Starting with #DetectiveByomkeshBakshy. E	location:New Delhi	datetime:Sat Mar 28 13:45:09 +0000 2015
+Sentiment:negative

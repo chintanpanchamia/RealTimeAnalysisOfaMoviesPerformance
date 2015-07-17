@@ -1,0 +1,96 @@
+Text:RT @foxstarhindi: Check out the X factor between them ;) . In #MrX promotions in Mumbai @emraanhashmi  @AmyraDastur93 http://t.co/DJNZc9uWRz	location:Kathmandu	datetime:Tue Apr 07 11:29:40 +0000 2015
+Sentiment:negative
+Text:#MRX: Grimmond joins Digital-i  | News | Research http://t.co/gArOS9lzmp, see more http://t.co/ewU3Zmb7uL	location:Berlin	datetime:Tue Apr 07 11:30:10 +0000 2015
+Sentiment:negative
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Mumbai	datetime:Tue Apr 07 11:30:15 +0000 2015
+Sentiment:positive
+Text:Paris in Springtime is wonderful, as is The Research Club http://t.co/0dZyZCweqL #mrx	location:London	datetime:Tue Apr 07 11:30:28 +0000 2015
+Sentiment:positive
+Text:@emraanhashmi @foxstarhindi I think twitter is gonna change tomorrow like new update or #MrX promoted trend?  Excited BTW. :-?	location:Islamabad	datetime:Tue Apr 07 11:31:34 +0000 2015
+Sentiment:positive
+Text:RT @TOIEntertain: #MrX is the new vigilante in town  http://t.co/azNQelF9w0 http://t.co/7jtZd0ZUK7	location:Null	datetime:Tue Apr 07 11:31:44 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:31:51 +0000 2015
+Sentiment:positive
+Text:#Spoiler #MrX is going to be an awesome! #MrXrulestwitter	location:Null	datetime:Tue Apr 07 11:31:59 +0000 2015
+Sentiment:positive
+Text:#Spoiler #MrX is going to be an awesome! #MrXrulestwitter	location:Null	datetime:Tue Apr 07 11:31:59 +0000 2015
+Sentiment:positive
+Text:#Spoiler #MrX is going to be an awesome! #MrXrulestwitter	location:Null	datetime:Tue Apr 07 11:31:59 +0000 2015
+Sentiment:positive
+Text:Invisible romance! Can't wait! #EmraanHashmi #MrX	location:Chennai	datetime:Tue Apr 07 11:31:59 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:32:10 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:New Delhi	datetime:Tue Apr 07 11:32:51 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:33:03 +0000 2015
+Sentiment:positive
+Text:What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us! http://t.co/1S8zmpmlYI	location:New Delhi	datetime:Tue Apr 07 11:33:19 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:New Delhi	datetime:Tue Apr 07 11:33:25 +0000 2015
+Sentiment:positive
+Text:RT @foxstarhindi: What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us! htt	location:Null	datetime:Tue Apr 07 11:33:29 +0000 2015
+Sentiment:positive
+Text:Register for live demo of MarketSight survey analysis &amp; reporting software  April 8 at 9:30am EST http://t.co/RNdJLKlT76 #mrx #data	location:Eastern Time (US & Canada)	datetime:Tue Apr 07 11:33:35 +0000 2015
+Sentiment:negative
+Text:RT @foxstarhindi: What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us! htt	location:Mumbai	datetime:Tue Apr 07 11:33:45 +0000 2015
+Sentiment:positive
+Text:RT @filmfare: .@emraanhashmi and Amyra Dastur on a promotional spree for #MrX.  Check out the pictures: http://t.co/EUqQaWrThx http://t.co/	location:Null	datetime:Tue Apr 07 11:33:47 +0000 2015
+Sentiment:positive
+Text:RT foxstarhindi: Just waving herself to invisibility! Lucky we caught her on camera before she disappeared ;) #MrX #MrX3D	location:Null	datetime:Tue Apr 07 11:34:00 +0000 2015
+Sentiment:negative
+Text:RT emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:34:00 +0000 2015
+Sentiment:positive
+Text:RT MarketsWatcher: #MRX: Grimmond joins Digital-i | News | Research http://t.co/HNrMh5wZtc, see more http://t.co/grSwYn3iQc;	location:Null	datetime:Tue Apr 07 11:34:00 +0000 2015
+Sentiment:negative
+Text:RT TheResearchClub: Paris in Springtime is wonderful, as is The Research Club http://t.co/DWb9R6FlcN #mrx	location:Null	datetime:Tue Apr 07 11:34:01 +0000 2015
+Sentiment:positive
+Text:RT Call_Me_Hashmi: emraanhashmi foxstarhindi I think twitter is gonna change tomorrow like new update or #MrX promoted trend? Excited BTW.	location:Null	datetime:Tue Apr 07 11:34:01 +0000 2015
+Sentiment:positive
+Text:RT TOIEntertain: #MrX is the new vigilante in town  http://t.co/1LjEFesz4n http://t.co/ypcwuMW2pR	location:Null	datetime:Tue Apr 07 11:34:01 +0000 2015
+Sentiment:positive
+Text:RT MonaDarlingXOXO: #Spoiler #MrX is going to be an awesome! #MrXrulestwitter	location:Null	datetime:Tue Apr 07 11:34:02 +0000 2015
+Sentiment:positive
+Text:RT foxstarhindi: What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us!	location:Null	datetime:Tue Apr 07 11:34:02 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:New Delhi	datetime:Tue Apr 07 11:34:05 +0000 2015
+Sentiment:positive
+Text:RT @foxstarhindi: What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us! htt	location:New Delhi	datetime:Tue Apr 07 11:34:19 +0000 2015
+Sentiment:positive
+Text:RT @TheResearchClub: Paris in Springtime is wonderful, as is The Research Club http://t.co/0dZyZCweqL #mrx	location:Pacific Time (US & Canada)	datetime:Tue Apr 07 11:34:43 +0000 2015
+Sentiment:positive
+Text:RT @foxstarhindi: What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us! htt	location:Islamabad	datetime:Tue Apr 07 11:34:46 +0000 2015
+Sentiment:positive
+Text:RT @RayPoynter: Copying is the new innovative - read Mark Earls blog http://t.co/9UUostkO22 #mrx #newmr	location:Pacific Time (US & Canada)	datetime:Tue Apr 07 11:34:55 +0000 2015
+Sentiment:positive
+Text:@foxstarhindi tuned #MrX	location:Islamabad	datetime:Tue Apr 07 11:35:36 +0000 2015
+Sentiment:positive
+Text:RT @erinn_taylor: Government policy makers leaning more heavily to qualitative research for answers.  https://t.co/0ip8it2qpU #mrx #quant	location:Pacific Time (US & Canada)	datetime:Tue Apr 07 11:35:46 +0000 2015
+Sentiment:negative
+Text:RT @foxstarhindi: Thrilling moments as the fans disappear in front of the #MrX invisible mirror.. The excitement never ends! http://t.co/FF	location:Null	datetime:Tue Apr 07 11:35:48 +0000 2015
+Sentiment:negative
+Text:RT @foxstarhindi: What better reward for #MrX than to see his fans smile. More fun coming ur way guys!! RT if you are as excited as us! htt	location:Null	datetime:Tue Apr 07 11:35:51 +0000 2015
+Sentiment:positive
+Text:@emraanhashmi says #MrX is his first family film. RT if you're looking forward to watching this movie!	location:Mumbai	datetime:Tue Apr 07 11:35:56 +0000 2015
+Sentiment:positive
+Text:RT @ETCBollywood: .@emraanhashmi will host first screening of #MrX for his son! The movie will release on 17th April. RT if you are excited	location:Null	datetime:Tue Apr 07 11:36:03 +0000 2015
+Sentiment:positive
+Text:@Emraanians @emraanhashmi #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:36:19 +0000 2015
+Sentiment:positive
+Text:RT @MovieTalkies: @emraanhashmi says #MrX is his first family film. RT if you're looking forward to watching this movie!	location:Null	datetime:Tue Apr 07 11:36:25 +0000 2015
+Sentiment:positive
+Text:RT @BiscootLive: I can finally show my film to my son:#EmraanHashmi http://t.co/aosKJDpoJJ #MrX http://t.co/G4uNg2TSLb	location:Islamabad	datetime:Tue Apr 07 11:36:26 +0000 2015
+Sentiment:positive
+Text:RT @foxstarhindi: Thrilling moments as the fans disappear in front of the #MrX invisible mirror.. The excitement never ends! http://t.co/FF	location:Null	datetime:Tue Apr 07 11:36:43 +0000 2015
+Sentiment:negative
+Text:RT @PlumVoice: RT @LoveStats: #MRX Fun with statistics: Anscombes quartet: http://t.co/GTR9YwGJGK @PeanutLabsMedia Always plot your data	location:Pacific Time (US & Canada)	datetime:Tue Apr 07 11:36:55 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:36:55 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Pacific Time (US & Canada)	datetime:Tue Apr 07 11:37:47 +0000 2015
+Sentiment:positive
+Text:@AvijitDey_Kkc #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:37:48 +0000 2015
+Sentiment:positive
+Text:RT @emraanhashmi: #MrX takes over Twitter tomorrow... 11am onwards... stay tuned to @foxstarhindi for more details.	location:Null	datetime:Tue Apr 07 11:37:52 +0000 2015
+Sentiment:positive

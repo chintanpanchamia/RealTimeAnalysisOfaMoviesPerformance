@@ -1,0 +1,500 @@
+Text:#Highway cant be compared wth #NH10 !!! Highway was a classic film Those who r comparing these films r chutiya's of highest order	location:Null	datetime:Thu Mar 19 15:46:41 +0000 2015
+Sentiment:neutral
+Text:RT @Team_Anushka: #Video NH10 Exclusive Making of Meera's Character Anushka Sharma https://t.co/JJy737g4LR @AnushkaSharma #NH10	location:Kolkata	datetime:Thu Mar 19 15:47:38 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 15:47:47 +0000 2015
+Sentiment:positive
+Text:#nh10 has been nothing short of shudder inducing. Take a bow, Anushka.	location:New Delhi	datetime:Thu Mar 19 15:47:51 +0000 2015
+Sentiment:negative
+Text:RT @being_sid_: #Highway cant be compared wth #NH10 !!! Highway was a classic film Those who r comparing these films r chutiya's of highest	location:Chennai	datetime:Thu Mar 19 15:48:12 +0000 2015
+Sentiment:neutral
+Text:RT @Team_Anushka: #Video NH10 Exclusive Making of Meera's Character Anushka Sharma https://t.co/JJy737g4LR @AnushkaSharma #NH10	location:Greenland	datetime:Thu Mar 19 15:48:59 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:New Delhi	datetime:Thu Mar 19 15:49:13 +0000 2015
+Sentiment:positive
+Text:RT @BollywoodWiki: Gorgeous @ShraddhaKapoor arriving for #NH10 premiere. http://t.co/t3jA4NMYDM	location:New Delhi	datetime:Thu Mar 19 15:49:15 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr. Total:  19.10 cr. India biz.	location:Kolkata	datetime:Thu Mar 19 15:50:51 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 15:53:31 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 15:55:07 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 15:55:14 +0000 2015
+Sentiment:positive
+Text:#NH10 Fri - 4 cr sat - 5 cr sun - 6 cr mon - 2 cr tue - 2.2 cr wed - 1.8 cr Total-21cr. #Bollywood #Boxoffice @AnushkaSharma @iamsrk	location:Null	datetime:Thu Mar 19 15:55:17 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 15:55:26 +0000 2015
+Sentiment:positive
+Text:RT @RanveerOfficial: Saw #NH10! Gripping, nail-biting, edge-of-ur-seat thrill ride from hell! @AnushkaSharma kicks some serious ass! Beyond	location:Null	datetime:Thu Mar 19 15:56:00 +0000 2015
+Sentiment:positive
+Text:"@deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10"	location:Null	datetime:Thu Mar 19 15:56:14 +0000 2015
+Sentiment:negative
+Text:Great performance by Anushka sharma..... #NH10 ... Worth watching for act n story ....	location:Chennai	datetime:Thu Mar 19 15:56:56 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Indiana (East)	datetime:Thu Mar 19 15:57:11 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Thu Mar 19 15:58:01 +0000 2015
+Sentiment:positive
+Text:. #NH10	location:Chennai	datetime:Thu Mar 19 15:58:15 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 15:58:50 +0000 2015
+Sentiment:positive
+Text:RT @Muniaa12: "@deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10"	location:Null	datetime:Thu Mar 19 16:00:31 +0000 2015
+Sentiment:negative
+Text:The time that @AnushkaSharma spent in Australia watching @imVkohli was prep for her role in #NH10  #BleedBlue #CWC15 http://t.co/70RHKW39Kl	location:New Delhi	datetime:Thu Mar 19 16:01:23 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 16:02:52 +0000 2015
+Sentiment:positive
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Kolkata	datetime:Thu Mar 19 16:03:30 +0000 2015
+Sentiment:negative
+Text:RT @MODl_G: .@imVkohli #NH10       ,   GF  pswd     ,         !! #INDvsB	location:Asia/Calcutta	datetime:Thu Mar 19 16:05:07 +0000 2015
+Sentiment:neutral
+Text:I've no words for #NH10!! Thank you so much @AnushkaSharma !! You were beyond super!! I literally clapped when the end credits rolled!	location:New Delhi	datetime:Thu Mar 19 16:06:22 +0000 2015
+Sentiment:negative
+Text:RT @LordOfTheGrins: The time that @AnushkaSharma spent in Australia watching @imVkohli was prep for her role in #NH10  #BleedBlue #CWC15 ht	location:Hawaii	datetime:Thu Mar 19 16:07:02 +0000 2015
+Sentiment:negative
+Text:RT @EatTweetBlog: I've no words for #NH10!! Thank you so much @AnushkaSharma !! You were beyond super!! I literally clapped when the end cr	location:Quito	datetime:Thu Mar 19 16:07:18 +0000 2015
+Sentiment:negative
+Text:RT @priyaguptatimes: Anushka...ur looking stunning as Rosie. #NH10, #BombayVelvet, DDD...looks like your year https://t.co/32PJEpldwp @Anus	location:New Delhi	datetime:Thu Mar 19 16:07:49 +0000 2015
+Sentiment:extremely positive
+Text:RT @anushkalovers: "I haven't seen #NH10. I heard great things about it and so i congratulated her (Anushka). I'm really happy for her." -	location:New Delhi	datetime:Thu Mar 19 16:08:27 +0000 2015
+Sentiment:positive
+Text:Either @imVkohli is ignorant about movies or he tried to please his girlfriend. #NH10 @AnushkaSharma Sorry Dear!	location:New Delhi	datetime:Thu Mar 19 16:09:12 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Thu Mar 19 16:09:14 +0000 2015
+Sentiment:positive
+Text:@AnushkaSharma #NH10 is your personal best.. Keep the gud work.. :)	location:Null	datetime:Thu Mar 19 16:10:01 +0000 2015
+Sentiment:neutral
+Text:RT @Bollyhungama: . @AnushkaSharma 's #NH10 continues its winning march at the #boxoffice with Wednesday collection of Rs. 1.80 cr.	location:New Delhi	datetime:Thu Mar 19 16:10:07 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr. Total:  19.10 cr. India biz.	location:New Delhi	datetime:Thu Mar 19 16:10:28 +0000 2015
+Sentiment:neutral
+Text:RT @RanveerOfficial: Saw #NH10! Gripping, nail-biting, edge-of-ur-seat thrill ride from hell! @AnushkaSharma kicks some serious ass! Beyond	location:Chennai	datetime:Fri Mar 20 07:30:03 +0000 2015
+Sentiment:positive
+Text:#NH10. To save myself from a lot of hate and disgust, I shall continue to rejoice in pretence, believe what I... http://t.co/8iD5ByA8pX	location:Kolkata	datetime:Fri Mar 20 07:32:31 +0000 2015
+Sentiment:extremely negative
+Text:#NH10   Must watch especially woman's.   The film is a master attempt of delivering realism in its rawness.... http://t.co/UzfjcP3ne1	location:Chennai	datetime:Fri Mar 20 07:32:59 +0000 2015
+Sentiment:positive
+Text:NH10 the movie = NH10 trailer + Anushka running, Anushka driving, Anushka cycling, Anushka running again. #NH10	location:New Delhi	datetime:Fri Mar 20 07:33:39 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 07:33:48 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr. Total:  19.10 cr. India biz.	location:Null	datetime:Fri Mar 20 07:34:13 +0000 2015
+Sentiment:neutral
+Text:RT @Babu_Bhaiyaa: So what if Kohli watched #NH10 and didn't perform..SureshRaina has been watching NH24 &amp; Ghaziabad bypass since his birth	location:New Delhi	datetime:Fri Mar 20 07:35:22 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 07:35:28 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 07:37:37 +0000 2015
+Sentiment:positive
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr. Total:  19.10 cr. India biz.	location:Hawaii	datetime:Fri Mar 20 07:37:44 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Almaty	datetime:Fri Mar 20 07:46:24 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 07:46:30 +0000 2015
+Sentiment:positive
+Text:Watched #NH10 gud movie very violent.. nyc work @AnushkaSharma JO KARNA THA SO KARNA THA...	location:Null	datetime:Fri Mar 20 07:48:20 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 07:48:51 +0000 2015
+Sentiment:positive
+Text:Since Kohli made the case for it, finally saw #NH10.   That scene where she's driving alone &amp; is attacked by hooligans - My worst nightmare.	location:New Delhi	datetime:Fri Mar 20 07:51:00 +0000 2015
+Sentiment:extremely negative
+Text:RT @EatTweetBlog: I've no words for #NH10!! Thank you so much @AnushkaSharma !! You were beyond super!! I literally clapped when the end cr	location:New Delhi	datetime:Fri Mar 20 07:51:50 +0000 2015
+Sentiment:negative
+Text:RT @priyaguptatimes: Anushka...ur looking stunning as Rosie. #NH10, #BombayVelvet, DDD...looks like your year https://t.co/32PJEpldwp @Anus	location:New Delhi	datetime:Fri Mar 20 07:53:58 +0000 2015
+Sentiment:extremely positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:00:17 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:New Delhi	datetime:Fri Mar 20 08:01:43 +0000 2015
+Sentiment:positive
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:New Delhi	datetime:Fri Mar 20 08:02:32 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:02:51 +0000 2015
+Sentiment:positive
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Null	datetime:Fri Mar 20 08:04:02 +0000 2015
+Sentiment:negative
+Text:I think I need to sleep this off for 24 hours at least. #NH10	location:Null	datetime:Fri Mar 20 08:04:37 +0000 2015
+Sentiment:extremely negative
+Text:RT @aviii__: Watched #NH10 ...isse aacha toh #SavdhaanIndia aata h saala	location:Null	datetime:Fri Mar 20 08:05:08 +0000 2015
+Sentiment:neutral
+Text:#NH10 1st Week Box office Collection [Day Wise] @AnushkaSharma @NH10themovie  http://t.co/uv3Akm2AQ7 http://t.co/3MdViqHUyf	location:Pacific Time (US & Canada)	datetime:Fri Mar 20 08:08:28 +0000 2015
+Sentiment:neutral
+Text:All New releases open terribly to a measly 5-7% Looks like #NH10 will lead box office again in its 2nd week!	location:Null	datetime:Fri Mar 20 08:08:47 +0000 2015
+Sentiment:extremely negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:09:06 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:09:25 +0000 2015
+Sentiment:positive
+Text:#NH10 with @MformationTech team #teamOuting (@ INOX Lido Mall) https://t.co/tpoDOviUxQ	location:Mumbai	datetime:Fri Mar 20 08:11:57 +0000 2015
+Sentiment:neutral
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Null	datetime:Fri Mar 20 08:12:01 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:13:40 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:14:15 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:20:30 +0000 2015
+Sentiment:positive
+Text:#NH10 collects 20crs aprox in wk1	location:Mumbai	datetime:Fri Mar 20 08:21:33 +0000 2015
+Sentiment:neutral
+Text:#NH10 movie #teamOuting #Inox @MformationTech @invinciblemayur @PoojaAcharyaPoo http://t.co/rB67tN4ETB	location:Mumbai	datetime:Fri Mar 20 08:27:25 +0000 2015
+Sentiment:neutral
+Text:RT @girishjohar: #NH10 collects 20crs aprox in wk1	location:Mumbai	datetime:Fri Mar 20 08:29:09 +0000 2015
+Sentiment:neutral
+Text:RT @priyaguptatimes: Anushka...ur looking stunning as Rosie. #NH10, #BombayVelvet, DDD...looks like your year https://t.co/32PJEpldwp @Anus	location:Chennai	datetime:Fri Mar 20 08:29:51 +0000 2015
+Sentiment:extremely positive
+Text:#AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYogSHxD	location:Null	datetime:Fri Mar 20 08:32:38 +0000 2015
+Sentiment:neutral
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India biz.	location:Mumbai	datetime:Fri Mar 20 08:32:54 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 08:33:07 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:33:21 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:33:53 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:33:55 +0000 2015
+Sentiment:neutral
+Text:@taran_adarsh #NH10 20 cr slap on face of @kamaalrkhan	location:Mumbai	datetime:Fri Mar 20 08:33:56 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:New Delhi	datetime:Fri Mar 20 08:33:59 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:New Delhi	datetime:Fri Mar 20 08:34:03 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:34:21 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:34:35 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:34:46 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:35:13 +0000 2015
+Sentiment:neutral
+Text:. @AnushkaSharma 's #NH10 collects Rs. 1.52 cr on Thursday	location:Hawaii	datetime:Fri Mar 20 08:35:21 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:35:23 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Chennai	datetime:Fri Mar 20 08:38:27 +0000 2015
+Sentiment:neutral
+Text:RT @priyaguptatimes: Anushka...ur looking stunning as Rosie. #NH10, #BombayVelvet, DDD...looks like your year https://t.co/32PJEpldwp @Anus	location:Chennai	datetime:Fri Mar 20 08:39:02 +0000 2015
+Sentiment:extremely positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 08:39:22 +0000 2015
+Sentiment:neutral
+Text:#NH10 [Wk1] Fri:3.35Cr | Sat:4.50Cr | Sun:5.45Cr | Mon:2.08Cr | Tue:1.92Cr | Wed:1.80Cr | Thu:1.52Cr | Total:20.62Cr http://t.co/YztjKiAozY	location:Mumbai	datetime:Fri Mar 20 08:39:44 +0000 2015
+Sentiment:neutral
+Text:#NH10 biz escalates further on Day 3... Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr. Total:  13.30 cr.  @AnushkaSharma	location:New Delhi	datetime:Fri Mar 20 08:40:00 +0000 2015
+Sentiment:neutral
+Text:RT @RJdevaki: "Fuck you",says @AnushkaSharma in #NH10,not only to her attackers, but also to regression &amp;.gender bias #GirlPower #HonorKill	location:New Delhi	datetime:Fri Mar 20 08:40:33 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Dhaka	datetime:Fri Mar 20 08:40:46 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:New Delhi	datetime:Fri Mar 20 08:42:00 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:42:12 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:New Delhi	datetime:Fri Mar 20 08:42:47 +0000 2015
+Sentiment:neutral
+Text:#NH10 in teather INDONESIA @AnushkaSharma @NH10themovie  http://t.co/BA7ou0oiGL	location:Null	datetime:Fri Mar 20 08:43:54 +0000 2015
+Sentiment:neutral
+Text:RT @utkarsha01: @taran_adarsh #NH10 20 cr slap on face of @kamaalrkhan	location:Chennai	datetime:Fri Mar 20 08:47:30 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Casablanca	datetime:Fri Mar 20 08:49:20 +0000 2015
+Sentiment:neutral
+Text:RT @TheFarahKhan: All the very best to you darling @AnushkaSharma .. For #NH10 .. You go for it girl !! http://t.co/si6Qsig6jU	location:New Delhi	datetime:Fri Mar 20 08:51:36 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:55:47 +0000 2015
+Sentiment:positive
+Text:RT @Bollyhungama: . @AnushkaSharma 's #NH10 collects Rs. 1.52 cr on Thursday	location:Null	datetime:Fri Mar 20 08:55:54 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 08:56:16 +0000 2015
+Sentiment:positive
+Text:RT @Bollyhungama: . @AnushkaSharma 's #NH10 collects Rs. 1.52 cr on Thursday	location:Null	datetime:Fri Mar 20 08:57:03 +0000 2015
+Sentiment:neutral
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 09:01:01 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:01:57 +0000 2015
+Sentiment:positive
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India biz.	location:Null	datetime:Fri Mar 20 09:02:58 +0000 2015
+Sentiment:neutral
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62... http://t.co/veK6MaKLy6	location:Chennai	datetime:Fri Mar 20 09:03:57 +0000 2015
+Sentiment:neutral
+Text:RT @Bollyhungama: . @AnushkaSharma 's #NH10 collects Rs. 1.52 cr on Thursday	location:Minsk	datetime:Fri Mar 20 09:04:31 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:04:42 +0000 2015
+Sentiment:positive
+Text:Deepti Naval, you beauty #NH10. Nails the 10 minutes to perfection!	location:New Delhi	datetime:Fri Mar 20 09:04:44 +0000 2015
+Sentiment:neutral
+Text:10    20 ! http://t.co/T4TKIkKAMv #NH10 #AnushkaSharma	location:Chennai	datetime:Fri Mar 20 09:06:49 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 09:08:01 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:08:12 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 09:09:44 +0000 2015
+Sentiment:neutral
+Text:a must watch movie!! #NH10	location:Null	datetime:Fri Mar 20 09:12:35 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:15:18 +0000 2015
+Sentiment:positive
+Text:#AnushkaSharma is awesome! #NH10 (y) (y)	location:Chennai	datetime:Fri Mar 20 09:15:42 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 09:15:44 +0000 2015
+Sentiment:positive
+Text:RT @Anushka_S_FC: Awww!! Priceless Picture!!! Deepika Kisses Anushka after a screening of #NH10! (Credit - @anushkalovers) http://t.co/zULd	location:Null	datetime:Fri Mar 20 09:15:51 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:19:28 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 09:19:35 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 09:20:47 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:22:10 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Paris	datetime:Fri Mar 20 09:24:43 +0000 2015
+Sentiment:neutral
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:New Delhi	datetime:Fri Mar 20 09:25:36 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:26:08 +0000 2015
+Sentiment:positive
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:Null	datetime:Fri Mar 20 09:26:20 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Baghdad	datetime:Fri Mar 20 09:26:46 +0000 2015
+Sentiment:positive
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:Chennai	datetime:Fri Mar 20 09:27:16 +0000 2015
+Sentiment:neutral
+Text:@AnushkaSharma #NH10...WHAT A MOVIE..!! Best movie after years..  u r d BESTTTTT..!! Class performance..proud 2 b ur fan..:) Go 4 it guys!!	location:Mumbai	datetime:Fri Mar 20 09:28:40 +0000 2015
+Sentiment:neutral
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:Chennai	datetime:Fri Mar 20 09:28:44 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:29:10 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:29:14 +0000 2015
+Sentiment:positive
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:Indiana (East)	datetime:Fri Mar 20 09:29:34 +0000 2015
+Sentiment:neutral
+Text:RT @Anushka_S_FC: Mumbai Mirror review:[3/5] #NH10 is atmospheric, well acted, moody &amp; crafted with a definite vision. http://t.co/5oghUHNh	location:Null	datetime:Fri Mar 20 09:37:03 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:38:10 +0000 2015
+Sentiment:positive
+Text:#NH10 This conversation went between anushka &amp; kohli on kohli's low dismissal http://t.co/TAP4b8dc8L	location:Null	datetime:Fri Mar 20 09:38:32 +0000 2015
+Sentiment:neutral
+Text:#NH10 Week - 1 Fri 3.35 cr,  Sat 4.50 cr,  Sun 5.45 cr,  Mon 2.08 cr,  Tue 1.92 cr,  Wed 1.80 cr,  Thu 1.52 c Total: 20.62 cr.India Biz	location:New Delhi	datetime:Fri Mar 20 09:38:53 +0000 2015
+Sentiment:neutral
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62... http://t.co/38CFsgVi2m	location:Chennai	datetime:Fri Mar 20 09:40:48 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 09:41:33 +0000 2015
+Sentiment:positive
+Text:Checkout 1st week collections of #NH10 &amp; 3rd week collections of #DumLagaKeHaisha - http://t.co/2qPEoymiIB	location:Null	datetime:Fri Mar 20 09:41:47 +0000 2015
+Sentiment:neutral
+Text:Just watched #NH10 Anushka Sharma brilliant..Too much violent,but unfortunately this is the true story of our INDIA.. Incorrigible	location:Chennai	datetime:Fri Mar 20 09:43:10 +0000 2015
+Sentiment:neutral
+Text:@AnushkaSharma  Becoming a fan. You are a brave producer.  #NH10	location:Null	datetime:Fri Mar 20 09:45:38 +0000 2015
+Sentiment:positive
+Text:Dull start for new releases.. #NH10 to lead again..	location:Islamabad	datetime:Fri Mar 20 09:46:39 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:New Delhi	datetime:Fri Mar 20 09:47:06 +0000 2015
+Sentiment:positive
+Text:#NH10     ... super fast train    ,       ...well done @FuhSePhantom	location:Mumbai	datetime:Fri Mar 20 09:47:41 +0000 2015
+Sentiment:neutral
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:48:33 +0000 2015
+Sentiment:positive
+Text:RT @kamaalrkhan: Don't blame Indian team today because they are playing this match after watching depressing film #NH10 so they all are dep	location:Null	datetime:Fri Mar 20 09:49:42 +0000 2015
+Sentiment:negative
+Text:#NH10     ... super fast train    ,       ...well done @neilbhoopalam	location:Mumbai	datetime:Fri Mar 20 09:51:59 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:52:39 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:52:58 +0000 2015
+Sentiment:positive
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:Mumbai	datetime:Fri Mar 20 09:55:09 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:57:18 +0000 2015
+Sentiment:positive
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India biz.	location:Eastern Time (US & Canada)	datetime:Fri Mar 20 09:57:58 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 09:59:24 +0000 2015
+Sentiment:positive
+Text:RT @newsflickshindi:   #AUSvPAK    #Kohli       #AnushkaSharma   ! #NH10 http://t.co/1JBYog	location:Null	datetime:Fri Mar 20 10:01:42 +0000 2015
+Sentiment:negative
+Text:#NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India biz.	location:Chennai	datetime:Fri Mar 20 10:05:53 +0000 2015
+Sentiment:positive
+Text:i like #NH10	location:Null	datetime:Fri Mar 20 10:12:07 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:13:54 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:14:02 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:15:01 +0000 2015
+Sentiment:positive
+Text:#NH10 was definitely thrilling and terrifying but glad that I Actually Watch it	location:Alaska	datetime:Fri Mar 20 10:15:05 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:15:52 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Fri Mar 20 10:16:10 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Indiana (East)	datetime:Fri Mar 20 10:16:23 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:16:34 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:17:34 +0000 2015
+Sentiment:positive
+Text:Aaaaand *drum roll* The winners are: @saraf_silky @charvisha_ &amp; @AlishaMalik_  Congratulations girls! You were awesome! #Fearless #NH10	location:New Delhi	datetime:Fri Mar 20 10:18:25 +0000 2015
+Sentiment:positive
+Text:Dum laga Ke is light hearted real life comedy for family &amp; #AdarshBhakt &amp; #NH10 is full of shit for #AdarshLiberal	location:Yerevan	datetime:Fri Mar 20 10:18:56 +0000 2015
+Sentiment:negative
+Text:@saraf_silky @charvisha_ @AlishaMalik_ Please send an email to lucky.kabootar@happilyunmarried.com to claim your #NH10 merchandise!	location:New Delhi	datetime:Fri Mar 20 10:19:05 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:21:15 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 10:23:48 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:24:26 +0000 2015
+Sentiment:positive
+Text:I know its quit long display name.. bt I'm my name is this much long wat 2 do.. #Bombayvelvet + #NH10 awesomeness..	location:Null	datetime:Fri Mar 20 10:25:24 +0000 2015
+Sentiment:negative
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Kolkata	datetime:Fri Mar 20 10:26:14 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Baghdad	datetime:Fri Mar 20 10:26:16 +0000 2015
+Sentiment:positive
+Text:RT @taran_adarsh: #NH10 Fri 3.35 cr, Sat 4.50 cr, Sun 5.45 cr, Mon 2.08 cr, Tue 1.92 cr, Wed 1.80 cr, Thu 1.52 cr. Total:  20.62 cr. India	location:Null	datetime:Fri Mar 20 10:27:19 +0000 2015
+Sentiment:positive
+Text:RT @happlyunmarried: @saraf_silky @charvisha_ @AlishaMalik_ Please send an email to lucky.kabootar@happilyunmarried.com to claim your #NH10	location:Chennai	datetime:Fri Mar 20 10:27:20 +0000 2015
+Sentiment:positive
+Text:"@rohit_sarwadnya: NH 10 dekhne se achha hai life ok pe savdhan india dekho Roj rat 10:30 baje"#NH10	location:Chennai	datetime:Fri Mar 20 10:29:27 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Fri Mar 20 10:29:36 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Arizona	datetime:Sun Mar 22 05:23:27 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 05:24:31 +0000 2015
+Sentiment:positive
+Text:RT @boxofficedetail: Hit Retweet If You Liked #NH10 and think it deserve "HIT" tag.. @AnushkaSharma	location:Null	datetime:Sun Mar 22 05:24:49 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 05:25:11 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 05:25:14 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:New Delhi	datetime:Sun Mar 22 05:29:08 +0000 2015
+Sentiment:negative
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Null	datetime:Sun Mar 22 05:30:23 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:New Delhi	datetime:Sun Mar 22 05:32:28 +0000 2015
+Sentiment:negative
+Text:RT @sheharyarizwan: Take a bow @anushkasharma. #NH10 is all about her. What a powerhouse of a performer. Kicked ass #Bollywood's latest her	location:Null	datetime:Sun Mar 22 05:32:34 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 05:32:47 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 05:33:17 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 05:33:27 +0000 2015
+Sentiment:negative
+Text:Absolutely loved #NH10 yayy!	location:Null	datetime:Sun Mar 22 05:37:11 +0000 2015
+Sentiment:positive
+Text:#weekend going for a movie with friends #NH10	location:Mumbai	datetime:Sun Mar 22 05:37:41 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:New Delhi	datetime:Sun Mar 22 05:38:41 +0000 2015
+Sentiment:negative
+Text:NH 10 show at Big Cinema TGIP Noida in a jam. 30 minutes past showtime &amp; still no show &amp; no explanation #NH10@BigCinema	location:New Delhi	datetime:Sun Mar 22 05:40:00 +0000 2015
+Sentiment:negative
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Null	datetime:Sun Mar 22 05:42:53 +0000 2015
+Sentiment:positive
+Text:RT @Hardism: @LoKarDi_RT Just watched #NH10 &amp; I'm blown away. What a brilliant film and specially an outstanding performance by you, my lov	location:Null	datetime:Sun Mar 22 05:47:31 +0000 2015
+Sentiment:positive
+Text:RT @sheharyarizwan: Take a bow @anushkasharma. #NH10 is all about her. What a powerhouse of a performer. Kicked ass #Bollywood's latest her	location:Null	datetime:Sun Mar 22 05:49:38 +0000 2015
+Sentiment:negative
+Text:RT @aackruti: #NH10 powerful film.#Anushkasharma  #bestactress nomination this year.This film proves one thing that any women... http://t.c	location:Null	datetime:Sun Mar 22 05:49:53 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 05:57:55 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Chennai	datetime:Sun Mar 22 06:06:31 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 06:07:06 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Chennai	datetime:Sun Mar 22 06:09:44 +0000 2015
+Sentiment:negative
+Text:#NH10 - Just a superb movie. Extraordinary situations call for drastic actions. Anushka might grab a national award for this.	location:Null	datetime:Sun Mar 22 06:09:46 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Chennai	datetime:Sun Mar 22 06:11:15 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:New Delhi	datetime:Sun Mar 22 06:12:10 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 06:13:18 +0000 2015
+Sentiment:positive
+Text:RT @Varun_dvn: #girlpower @AnushkaSharma is outstanding .#nh10 is must watch specially for all the men. Superb job Navdeeep	location:Chennai	datetime:Sun Mar 22 06:15:51 +0000 2015
+Sentiment:positive
+Text:Watched #NH10 !! It's an amazing movie highlighting the harsh realities of everyday world. @AnushkaSharma is the real HERO in it!!!	location:Null	datetime:Sun Mar 22 06:16:03 +0000 2015
+Sentiment:positive
+Text:@iSupportRaveesh @nibojj @ijasthensif @shishiraTheRed To unwind, Kohli see #nh10 @ravpan13 rides I280.NH10 leads to 1 lady, I280 leads to ..	location:Null	datetime:Sun Mar 22 06:17:33 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 06:20:07 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 06:20:16 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 06:25:00 +0000 2015
+Sentiment:positive
+Text:RT @RanveerOfficial: Saw #NH10! Gripping, nail-biting, edge-of-ur-seat thrill ride from hell! @AnushkaSharma kicks some serious ass! Beyond	location:Null	datetime:Sun Mar 22 06:25:42 +0000 2015
+Sentiment:negative
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Null	datetime:Sun Mar 22 06:26:39 +0000 2015
+Sentiment:positive
+Text:"Gurgaon sheher badhta bachha hai ji, kood to lega hi." Cop to Anushka, on being attacked.  So stunned by these words, I'm alarmed! #NH10	location:Mumbai	datetime:Sun Mar 22 06:27:44 +0000 2015
+Sentiment:positive
+Text:RT @preeti_simoes: Juz watched #NH10 n a standin ovation to @AnushkaSharma @Anushka_S_FC .. Meera symbolises de power of every woman.. Watt	location:Chennai	datetime:Sun Mar 22 06:28:21 +0000 2015
+Sentiment:positive
+Text:Thank God! I didn't born in Hariyana.  Every girl in bombay after watching #NH10	location:Hawaii	datetime:Sun Mar 22 06:29:04 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 06:32:43 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 06:36:25 +0000 2015
+Sentiment:negative
+Text:This is so #funny hahaha. ...@imVkohli @AnushkaSharma #CWC15 #IndvsAus #NH10 #awesome @KulkiratS http://t.co/4zxgaakIhW	location:Mumbai	datetime:Sun Mar 22 06:36:30 +0000 2015
+Sentiment:positive
+Text:- ' ... '  ?  - http://t.co/72LxwP4RQB #DeepikaPadukone #NH10 http://t.co/8ibOMjsSXV	location:New Delhi	datetime:Sun Mar 22 06:37:33 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:New Delhi	datetime:Sun Mar 22 06:38:20 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 06:38:29 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 06:38:43 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 06:38:57 +0000 2015
+Sentiment:negative
+Text:#NH10 carries a very important message for men: If you don't listen to your wife, you will end up dead!	location:Null	datetime:Sun Mar 22 06:41:42 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 06:42:00 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:New Delhi	datetime:Sun Mar 22 06:42:02 +0000 2015
+Sentiment:positive
+Text:The #winners of the #NH10 #contest will be announced soon. Keep an eye on this space.  Till then...Keep participating...Keep Winning...	location:Null	datetime:Sun Mar 22 06:43:12 +0000 2015
+Sentiment:negative
+Text:@AnushkaSharma last night watched #NH10 so classic welldone job anushka carry on you will must beat pk record	location:Pacific Time (US & Canada)	datetime:Sun Mar 22 06:43:39 +0000 2015
+Sentiment:positive
+Text:RT @deepikapadukone: All the best for today @AnushkaSharma !!!The trailer was mindblowing!Cant wait to watch the film!:-) #NH10	location:Null	datetime:Sun Mar 22 06:43:50 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Perth	datetime:Sun Mar 22 06:45:24 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 06:45:37 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 06:47:47 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Mumbai	datetime:Sun Mar 22 06:52:08 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 06:54:50 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:New Delhi	datetime:Sun Mar 22 06:55:49 +0000 2015
+Sentiment:negative
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Null	datetime:Sun Mar 22 06:55:51 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Null	datetime:Sun Mar 22 07:00:48 +0000 2015
+Sentiment:positive
+Text:RT @JJBabaAC: @iSupportRaveesh @nibojj @ijasthensif @shishiraTheRed To unwind, Kohli see #nh10 @ravpan13 rides I280.NH10 leads to 1 lady, I	location:Pacific Time (US & Canada)	datetime:Sun Mar 22 07:00:57 +0000 2015
+Sentiment:positive
+Text:Hvng a gun dsnt mk u Macho, Hvng a rod does.No Pun Intnded.  If u murder (lie) 1,u nd 2 murder (lie) more 2 cover it up. #NH10	location:Null	datetime:Sun Mar 22 07:02:54 +0000 2015
+Sentiment:positive
+Text:Amazing picture to represent the sick mentality n barbaric nature of extremists. In short all illiterate people #NH10	location:Eastern Time (US & Canada)	datetime:Sun Mar 22 07:04:06 +0000 2015
+Sentiment:positive
+Text:RT @ashwinmushran: My favourite part of #NH10 is all those "Smoking Kills" disclaimers, when clearly smoking isn't actually doing any of th	location:Hawaii	datetime:Sun Mar 22 07:05:58 +0000 2015
+Sentiment:negative
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Kolkata	datetime:Sun Mar 22 07:06:02 +0000 2015
+Sentiment:positive
+Text:RT @imVkohli: Just watched #NH10 and i am blown away. What a brilliant film and specially an outstanding performance by my love @AnushkaSha	location:Chennai	datetime:Sun Mar 22 07:11:05 +0000 2015
+Sentiment:positive

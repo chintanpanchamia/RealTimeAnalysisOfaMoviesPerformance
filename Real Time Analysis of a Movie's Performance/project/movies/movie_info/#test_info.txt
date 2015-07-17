@@ -1,0 +1,8 @@
+srk,salman,aamir,aish,Dibakar Banerjee,Kjo,Pritam
+test
+No
+Yes
+test.jpg
+yes
+10/03/1993
+#test
