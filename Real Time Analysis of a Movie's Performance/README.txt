@@ -1,9 +1,9 @@
 Real Time Analysis of a Movie's Performance
 
 Contents:
-1) Python installer file
-2) Project directory
-3) Www directory (Has to be stored in a directory which can be accessed via localhost)
+
+1) Project directory
+2) Www directory (Has to be stored in a directory which can be accessed via localhost)
 
 Contents of Project Directory:
 1) decisiontrees-master directory (This directory stores the ID3 implementation code)
