@@ -12,7 +12,7 @@ import re
 import subprocess
 import pickle
 
-url = "/home/parthrparekh93/project/"
+url = "/home/chintanpanchamia/project/"
 
 #Variables that contains the user credentials to access Twitter API 
 access_token = "2793739158-pVYEiXZd90qMuXLsULyRfSuSQodVco3RXBXHk2H"
